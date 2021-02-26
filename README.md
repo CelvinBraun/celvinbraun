@@ -1,9 +1,9 @@
 ### Hi there, this is Celvin👋
 
-*How to reach me:*/
--> [Twitter](https://twitter.com/celvinbr)\
--> [XING](https://www.xing.com/profile/Celvin_Braun)\
--> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)\
+*How to reach me:*
+\-> [Twitter](https://twitter.com/celvinbr)\
+\-> [XING](https://www.xing.com/profile/Celvin_Braun)
+\-> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)
 
 <!--
 - 🔭 I’m currently working on ...
