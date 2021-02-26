@@ -4,7 +4,7 @@
 
 #### *Currently learning:*
 -> Python\
--> HTML5
+-> Responsive Web Design
 
 ---
 
