@@ -1,6 +1,6 @@
 ### Hi there, this is Celvin👋
 
-*How to reach me:*
+*How to reach me:*  
 -> [Twitter](https://twitter.com/celvinbr)  
 -> [XING](https://www.xing.com/profile/Celvin_Braun)  
 -> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)  
