@@ -8,6 +8,14 @@
 
 ---
 
+#### *Learn To-Do list:*
+-> Advanced SQL\
+-> JavaScript\
+-> Wireshark\
+-> Swift
+
+---
+
 #### *How to reach me:*
 -> [Twitter](https://twitter.com/celvinbr)\
 -> [XING](https://www.xing.com/profile/Celvin_Braun)\
