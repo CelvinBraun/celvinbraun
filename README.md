@@ -2,17 +2,23 @@
 
 ---
 
+I´m using GitHub currently mainly for learning purpose. 👨‍💻
+
+---
+
 #### *Currently learning:*
 -> Python\
 -> Responsive Web Design
 
 ---
 
-#### *Learn To-Do list:*
--> Advanced SQL\
+#### *Wants to learn:*
+-> More Advanced SQL\
 -> JavaScript\
 -> Wireshark\
--> Swift
+-> Swift\
+-> Docker\
+-> More Shell And Bash Magic
 
 ---
 
