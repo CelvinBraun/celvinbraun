@@ -25,7 +25,6 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 ---
 
 #### *How to reach me:*
--> [Twitter](https://twitter.com/celvinbr)\
 -> [XING](https://www.xing.com/profile/Celvin_Braun)\
 -> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)
 
