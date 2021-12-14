@@ -20,7 +20,7 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 -> Wireshark\
 -> Swift\
 -> Docker\
--> More Shell And Bash Magic\
+-> More Shell/Bash Magic\
 -> More Linux!
 
 ---
@@ -28,6 +28,6 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 #### *How to reach me:*
 -> [XING](https://www.xing.com/profile/Celvin_Braun)\
 -> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)\
--> Discord | Celvin#2104
+-> [Discord](https://discord.com/) | Celvin#2104
 
 ---
