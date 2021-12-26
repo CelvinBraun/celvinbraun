@@ -32,6 +32,6 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 
 Or just write me an email!\
 mailtocelvin[enter "@" sign]protonmail[enter "." sign]com\
--> [PGP-Key](https://gist.github.com/CelvinBraun/e9ecec4141d5947e5947557034784772)
+-> [PGP-Key](https://gist.github.com/CelvinBraun/d921507cffe6a65b92d95479eafd27cd)
 
 ---
