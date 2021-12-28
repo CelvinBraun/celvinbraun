@@ -10,14 +10,13 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 
 #### *Currently learning:*
 -> Python\
--> Responsive Web Design
+-> Wireshark
 
 ---
 
 #### *Wants to learn:*
 -> More Advanced SQL\
 -> JavaScript\
--> Wireshark\
 -> Swift\
 -> Docker\
 -> More Shell/Bash Magic\
