@@ -19,8 +19,10 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 -> More Advanced SQL\
 -> Swift\
 -> Docker\
--> More Linux!\
--> More about macOS
+-> Bash&PowerShell Magic\
+-> Some Cyber Security Kungfu\
+-> More Linux & Linux Administration!\
+-> More macOS!!
 
 ---
 
