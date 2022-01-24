@@ -11,7 +11,10 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 #### *Currently learning:*
 -> Python\
 -> JavaScript\
--> Wireshark
+-> Wireshark\
+-> Japanese! (Thats why I´m not always active on GitHub!)
+
+Fun fact: **24 hours** are just **not enough** time!
 
 ---
 
