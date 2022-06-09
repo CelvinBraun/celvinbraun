@@ -33,7 +33,7 @@ Fun fact: **24 hours** are just **not enough** time!
 -> [XING](https://www.xing.com/profile/Celvin_Braun)\
 -> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)\
 -> [Discord](https://discord.com/) | Celvin#2104\
--> [Mastadon](https://mastodon.social/@CelvinBraun) | @CelvinBraun@mastodon.social
+-> [Mastadon](https://mastodon.social/@CelvinBraun)
 
 Or just write me an email!\
 mailtocelvin[enter "@" sign]protonmail[enter "." sign]com\
