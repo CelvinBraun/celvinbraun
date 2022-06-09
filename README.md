@@ -32,7 +32,8 @@ Fun fact: **24 hours** are just **not enough** time!
 #### *How to reach me:*
 -> [XING](https://www.xing.com/profile/Celvin_Braun)\
 -> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)\
--> [Discord](https://discord.com/) | Celvin#2104
+-> [Discord](https://discord.com/) | Celvin#2104\
+-> [Mastadon](https://mastodon.social/@CelvinBraun) | @CelvinBraun@mastodon.social
 
 Or just write me an email!\
 mailtocelvin[enter "@" sign]protonmail[enter "." sign]com\
