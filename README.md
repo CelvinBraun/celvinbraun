@@ -10,8 +10,8 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 
 #### *Currently learning:*
 -> Python\
--> JavaScript\
 -> Wireshark\
+-> More Front End (SASS, jQuery, Bootstrap, ...)\
 -> Japanese! (Thats why I´m not always active on GitHub!)
 
 Fun fact: **24 hours** are just **not enough** time!
@@ -22,6 +22,7 @@ Fun fact: **24 hours** are just **not enough** time!
 -> More Advanced SQL\
 -> Swift\
 -> Docker\
+-> More JavScript\
 -> Bash&PowerShell Magic\
 -> Some Cyber Security Kungfu\
 -> More Linux & Linux Administration!\
