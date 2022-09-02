@@ -10,7 +10,6 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 
 #### *Currently learning:*
 -> Python\
--> Wireshark\
 -> More Front End (SASS, jQuery, Bootstrap, ...)\
 -> Japanese! (Thats why I´m not always active on GitHub!)
 
