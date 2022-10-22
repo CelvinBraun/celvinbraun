@@ -11,7 +11,6 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 #### *Currently learning:*
 -> Python\
 -> More Front End (SASS, jQuery, Bootstrap, ...)\
--> Fundamentals of digital marketing\
 -> Japanese! (Thats why I´m not always active on GitHub!)
 
 Fun fact: **24 hours** are just **not enough** time!
@@ -26,6 +25,7 @@ Fun fact: **24 hours** are just **not enough** time!
 -> Bash&PowerShell Magic\
 -> Some Cyber Security Kungfu\
 -> More Linux & Linux Administration!\
+-> Fundamentals of digital marketing\
 -> More macOS!!
 
 ---
