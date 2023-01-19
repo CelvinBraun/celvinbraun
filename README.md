@@ -22,7 +22,7 @@ Fun fact: **24 hours** are just **not enough** time!
 -> More Advanced SQL\
 -> Swift (maybe Flutter?)\
 -> Docker\
--> More JavScript\
+-> More JavaScript\
 -> Bash&PowerShell Magic\
 -> Some Cyber Security Kungfu\
 -> More Linux & Linux Administration!\
