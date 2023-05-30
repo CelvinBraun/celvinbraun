@@ -11,6 +11,7 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 #### *Currently learning:*
 -> More Python\
 -> Git (mainly with CLI)\
+-> More about SSL\
 -> More Front End (SASS, jQuery, Bootstrap, ...)\
 -> Japanese! (Thats why I´m not always active on GitHub!)
 
