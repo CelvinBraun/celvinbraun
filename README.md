@@ -11,9 +11,8 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 #### *Currently learning:*
 -> More Python\
 -> Git (mainly with CLI)\
--> More about SSL\
--> More Front End (SASS, jQuery, Bootstrap, ...)\
--> Japanese! (Thats why I´m not always active on GitHub!)
+
+-> Japanese! (Thats one of the reasons, why I´m not always active on GitHub!)
 
 Fun fact: **24 hours** are just **not enough** time!
 
@@ -21,6 +20,7 @@ Fun fact: **24 hours** are just **not enough** time!
 
 #### *Wants to learn:*
 -> More Advanced SQL\
+-> More Front End (SASS, jQuery, Bootstrap, ...)\
 -> Swift (maybe Flutter?)\
 -> Docker\
 -> More JavaScript\
@@ -32,7 +32,6 @@ Fun fact: **24 hours** are just **not enough** time!
 ---
 
 #### *How to reach me:*
--> [XING](https://www.xing.com/profile/Celvin_Braun)\
 -> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)\
 -> [Discord](https://discord.com/) | Celvin#2104\
 -> [Mastodon](https://mastodon.social/@CelvinBraun)
