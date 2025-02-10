@@ -36,8 +36,4 @@ Fun fact: **24 hours** are just **not enough** time!
 -> [Discord](https://discord.com/) | Celvin#2104\
 -> [Mastodon](https://mastodon.social/@CelvinBraun)
 
-Or just write me an email!\
-mailtocelvin[enter "@" sign]protonmail[enter "." sign]com\
--> [PGP-Key](https://gist.github.com/CelvinBraun/d921507cffe6a65b92d95479eafd27cd)
-
 ---
