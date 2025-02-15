@@ -32,8 +32,6 @@ Fun fact: **24 hours** are just **not enough** time!
 ---
 
 #### *How to reach me:*
--> [LinkedIn](https://www.linkedin.com/in/celvin-braun/)\
--> [Discord](https://discord.com/) | Celvin#2104\
--> [Mastodon](https://mastodon.social/@CelvinBraun)
+-> [Discord](https://discord.com/) | Celvin#2104
 
 ---
