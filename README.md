@@ -30,8 +30,3 @@ Fun fact: **24 hours** are just **not enough** time!
 -> More macOS!!
 
 ---
-
-#### *How to reach me:*
--> [Discord](https://discord.com/) | Celvin#2104
-
----
