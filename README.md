@@ -28,6 +28,6 @@ Fun fact: **24 hours** are just **not enough** time!
 -> Some Cyber Security Kungfu\
 -> More Linux & Linux Administration!\
 -> More macOS!!\
--> And soooo much more (to much intersting stuff out there!)!!!
+-> And soooo much more!!!
 
 ---
