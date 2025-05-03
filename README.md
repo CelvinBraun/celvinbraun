@@ -9,8 +9,8 @@ I´m using GitHub currently mainly for learning purpose. 👨‍💻
 ---
 
 #### *Currently learning:*
--> More Python\
--> Git (mainly with CLI)
+-> CCNA\
+-> More Python
 
 -> Japanese! (Thats one of the reasons, why I´m not always active on GitHub!)
 
